@@ -1,0 +1,30 @@
+# Streamlit (Frontend)
+streamlit
+streamlit-lottie
+
+# Data Processing
+pandas
+numpy
+matplotlib
+requests
+# json
+tabulate
+requests
+
+# Environment Variables
+python-dotenv
+
+# Stripe Payment Processing
+stripe
+
+# Solana Blockchain
+solana
+base58
+solders
+
+# Google Gemini AI API
+google-generativeai
+
+# MediaPipe for AI Trainer
+mediapipe
+opencv-python
